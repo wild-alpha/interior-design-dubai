@@ -14,10 +14,6 @@ const config = {
         allow: '/',
       },
     ],
-    // You can remove this if you're not manually generating extra sitemaps
-    additionalSitemaps: [
-      'https://interiordesigndubai.studio/sitemap.xml',
-    ],
   },
 };
 
