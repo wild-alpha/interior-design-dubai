@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://interiordesigndubai.studio
+
+# Sitemaps
+Sitemap: https://interiordesigndubai.studio/sitemap.xml
