@@ -1,18 +1,30 @@
 // app/page.tsx
 import Header from "./components/header";
 import HeroSection from "./components/HeroSection";
-import FeaturedPosts from "./components/FeaturedPosts";
+import Body from "./components/Body";
+import BeforeAfterStories from "./components/BeforeAfterStories";
+import Design from "./components/Design";
+import Tips from "./components/Tips";
+import Categories from "./components/Categories";
+
 import Footer from "./components/Footer";
+
 
 export default function Home() {
   return (
     <>
-      <Header />
+    
       <main>
-        <HeroSection />
-        <FeaturedPosts />
+    <Header />
+    <HeroSection />
+    <Body />
+    <BeforeAfterStories />
+    <Design />
+    <Tips />
+    <Categories />
+    <Footer />
+
       </main>
-      <Footer />
     </>
   );
 }

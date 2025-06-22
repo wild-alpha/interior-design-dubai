@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Interior Blog | Modern Interior Design in Dubai',
+  title: 'Interior Design Dubai | Modern Interior Designs in Dubai',
   description: 'Explore expert interior design tips, trends, and project inspirations from Dubai and around the world.',
   metadataBase: new URL('https://yourdomain.com'),
   openGraph: {
