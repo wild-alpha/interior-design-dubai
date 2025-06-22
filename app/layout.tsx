@@ -5,7 +5,7 @@ import './globals.css';
 export const metadata: Metadata = {
   title: 'Interior Design Dubai | Modern Interior Designs in Dubai',
   description: 'Explore expert interior design tips, trends, and project inspirations from Dubai and around the world.',
-  metadataBase: new URL('https://yourdomain.com'),
+  metadataBase: new URL('https://interiordesigndubai.studio/'),
   openGraph: {
     title: 'Interior Blog | Modern Interior Design in Dubai',
     description: 'Explore expert interior design tips, trends, and project inspirations from Dubai and around the world.',
@@ -47,7 +47,7 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "WebSite",
-              "url": "https://yourdomain.com",
+              "url": "https://https://interiordesigndubai.studio/",
               "name": "Interior Blog",
               "publisher": {
                 "@type": "Organization",
