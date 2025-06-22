@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Interior Blog | Modern Interior Design in Dubai',
     description: 'Explore expert interior design tips, trends, and project inspirations from Dubai and around the world.',
-    url: 'https://yourdomain.com',
+    url: 'https://interiordesigndubai.studio/',
     siteName: 'Interior Blog',
     images: [
       {
