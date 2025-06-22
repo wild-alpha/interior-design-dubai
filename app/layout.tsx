@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: 'Interior Blog | Modern Interior Design in Dubai',
     description: 'Explore expert interior design tips, trends, and project inspirations from Dubai and around the world.',
     url: 'https://interiordesigndubai.studio/',
-    siteName: 'Interior Blog',
+    siteName: 'Interior Design Dubai',
     images: [
       {
         url: '/og-image.jpg',
@@ -48,10 +48,10 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "WebSite",
               "url": "https://https://interiordesigndubai.studio/",
-              "name": "Interior Blog",
+              "name": "Interior Design Dubai",
               "publisher": {
                 "@type": "Organization",
-                "name": "Interior Blog",
+                "name": "Interior Design Dubai",
               },
             }),
           }}
